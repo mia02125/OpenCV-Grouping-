@@ -1,5 +1,5 @@
 # OpenCV-Grouping-
-https://raw.githubusercontent.com/mia02125/OpenCV-Grouping-/master/pic/BGRColor.PNG
+
 
 <br>
 # 라즈베리파이 CAMERA를 이용해서 얼굴인식하기
@@ -50,10 +50,10 @@ https://raw.githubusercontent.com/mia02125/OpenCV-Grouping-/master/pic/BGRColor.
 
 # opencv를 이용해 명함 인식 
 ## 코드
-![create edgeDetection](https://raw.githubusercontent.com/mia02125/OpenCV-Grouping-/master/pic/edge1.PNG)
+![create edgeDetection](https://github.com/mia02125/OpenCV-Grouping-/blob/master/edgeDetection/edge1.PNG)
 
 ## 엣지 검출 결과
-![create edgeDetection](https://raw.githubusercontent.com/mia02125/OpenCV-Grouping-/master/pic/edge2.PNG)
+![create edgeDetection](https://github.com/mia02125/OpenCV-Grouping-/blob/master/edgeDetection/edge2.PNG)
 
 ##명함 인식(미완성) 
 
