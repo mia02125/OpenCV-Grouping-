@@ -40,9 +40,9 @@ https://raw.githubusercontent.com/mia02125/OpenCV-Grouping-/master/pic/BGRColor.
 ************
 
 ## openCV(차선 인식하기) 
-![create openCV](https://raw.githubusercontent.com/mia02125//OpenCV-Grouping-/master/pic/opencv(%EC%B0%A8%EC%84%A0%EC%9D%B8%EC%8B%9D).PNG)
+![create openCV](https://raw.githubusercontent.com/mia02125/OpenCV-Grouping-/master/pic/opencvLane.PNG)
 ## Code
-![create openCV](https://raw.githubusercontent.com//OpenCV-Grouping-/master/pic/pic.PNG)
+![create openCV](https://raw.githubusercontent.com/mia02125/OpenCV-Grouping-/master/pic/opencvLane1.PNG)
 ### 출처 : https://diy-project.tistory.com/115
 
 
