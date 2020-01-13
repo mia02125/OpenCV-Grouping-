@@ -36,18 +36,17 @@
 ## colorDetection
 ![create pic](https://raw.githubusercontent.com/mia02125/OpenCV-Grouping-/master/pic/colorDetection.PNG)
 
-
+<br>
 ************
-
+<br>
 ## openCV(차선 인식하기) 
 ![create openCV](https://raw.githubusercontent.com/mia02125/OpenCV-Grouping-/master/pic/opencv(%EC%B0%A8%EC%84%A0%EC%9D%B8%EC%8B%9D).PNG)
 ## Code
 ![create openCV](https://raw.githubusercontent.com/mia02125/OpenCV-Grouping-/master/pic/pic.PNG)
 ### 출처 : https://diy-project.tistory.com/115
-
-
+<br>
 ************
-
+<br>
 # opencv를 이용해 명함 인식 
 ## 코드
 ![create edgeDetection](https://github.com/mia02125/OpenCV-Grouping-/blob/master/edgeDetection/edge1.PNG)
@@ -56,9 +55,9 @@
 ![create edgeDetection](https://github.com/mia02125/OpenCV-Grouping-/blob/master/edgeDetection/edge2.PNG)
 
 ##명함 인식(미완성) 
-
+<br>
 ************
-
+<br>
 
 # openCV (물체 검출) 
 ## Labeling(라벨링)
@@ -70,9 +69,9 @@
 ![pic](https://raw.githubusercontent.com/mia02125/OpenCV-Grouping-/master/pic/sd1.PNG)
 ## 코드 
 ![pic](https://raw.githubusercontent.com/mia02125/OpenCV-Grouping-/master/pic/sd2.PNG)
-
+<br>
 ************
-
+<br>
 # 피부색 검출하기(YCrCb)
 
 ## 코드
@@ -81,4 +80,4 @@
 ## 출력물 
 ![create opencv](https://raw.githubusercontent.com/mia02125/OpenCV-Grouping-/master/pic/skin1.PNG)
 
-### 12.30 SkinDetection 복습
+### 12.30에 SkinDetection 복습
