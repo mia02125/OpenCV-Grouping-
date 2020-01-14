@@ -2,8 +2,6 @@
 
 
 <br>
-# 라즈베리파이 CAMERA를 이용해서 얼굴인식하기
-
 ### 눈(?) 인식(이미 학습된 라이브러리를 사용하여 정확도가 낮음)
 ![create opencv](https://raw.githubusercontent.com/mia02125/OpenCV-Grouping-/master/pic/iub.jpg)
 ## 얼굴 인식
@@ -11,7 +9,7 @@
 <br>
 ************
 <br>
-# 이미지 처리
+# 이미지 처리(ImageProcessing)
 
 ## Canny영상 처리
 ![create pic](https://raw.githubusercontent.com/mia02125/OpenCV-Grouping-/master/pic/cannypic.PNG)
